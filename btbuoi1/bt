@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NguyenTuanAnh-251230806-CNTT2">
+    <meta name="robots" content="index,follow">
+    <meta name="author" content="Nguyen Tuan Anh">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Nguyễn Tuấn Anh</h1>
+    <h2>CNTT2-K66</h2>
+        <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores similique debitis illum fugit deleniti magnam quas ipsam dolores voluptatem distinctio maiores repellendus incidunt, dignissimos ad hic nam recusandae nostrum voluptas."</p>
+        <table border="1">
+            <caption>Dạng thông tin cá nhân </caption>
+            <thead>
+                <tr>
+                    <th>Họ và tên</th>
+                    <th colspan="2">Thông tin liên hệ</th>
+                    <th>Lớp </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="5">Nguyễn Tuấn Anh</td>
+                     <td rowspan="2"> Facebook</td>
+                    <td rowspan="2"><img  src="Screenshot 2026-09-13 160145.png" alt=""></td>
+                    <td rowspan="5"><p>Công nghệ thông tin 2 -K66</p></td>
+                </tr>
+                <tr>
+
+                </tr>
+                <tr>
+                    <td>Email</td>
+                     <td><a href="mailto:tuananh2k3760@gmail.com">tuananh2k3760@gmail.com</a> </td>
+                </tr>
+                <tr>
+                    <td>Github</td>
+                    <td><a href="https://github.com/TuanAnh-63/NguyenTuanAnh_Web-T6">Đường dẫn github</a></td>
+                </tr>
+                <tr>
+                   <td>Số điện thoại</td> 
+                 <td><a href="tel:+0376318290">0376318290</a></td>
+                </tr>
+            </tbody>
+            <tfoot>
+               <tr>
+                <td colspan="2"> <p>Bài tập buổi 1 của CLB Tin Học - SFIT</p></td>
+                <td colspan="2"><p>Nguyễn Tuấn Anh - Ban Học Tập - Lớp Web thứ 6</p></td>
+               </tr>
+            </tfoot>
+        </table>
+</body>
+</html>
