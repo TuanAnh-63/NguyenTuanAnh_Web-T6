@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0
+}
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease;
+    border: 1px solid #5c5b5b;
+    padding:22px 20px;
+    border-radius: 10px;
+    width: 100%;
+}
+.cards{
+    display: flex;
+    gap: 20px;
+    align-items: stretch;
+}
+
+p{
+    margin-top: 20px;
+    font-size: 16px;
+    color: #7d7a7a;
+    margin-bottom: 20px;
+}
+button{
+     margin-top:auto;
+    width: 100%;
+    background-color: #062bd1;
+    color: white;
+    padding: 10px 0px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
